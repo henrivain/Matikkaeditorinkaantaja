@@ -30,12 +30,12 @@ täältä saa paljon vinkkejä ja tietoa kehittäjän mielenkulusta
 
 ## asentaminen
 
- 1) Lataa oikea MEK versio githubista
- 2) Pura tiedosto painamalla hiiren oikeaa näppäintä tiedoston päällä ja valitsemalla “Pura kaikki...” ja paina “Pura”
- 3) Kun tiedosto on purettu, avautuu purettu tiedosto näkyville
- 4) Vie avautunut kansio valitsemaasi kansioon
- 5) Kannattaa vielä luoda pikakuvake seuraamalla alapuolella olevia ohjeita
- 6) Ohjelman saa käynnistettyä kaksoisklikkaamalla tiedostoa "matikkaeditorinkääntäjä.exe"
+	1) Lataa oikea MEK versio githubista
+	2) Pura tiedosto painamalla hiiren oikeaa näppäintä tiedoston päällä ja valitsemalla “Pura kaikki...” ja paina “Pura”
+	3) Kun tiedosto on purettu, avautuu purettu tiedosto näkyville
+	4) Vie avautunut kansio valitsemaasi kansioon
+	5) Kannattaa vielä luoda pikakuvake seuraamalla alapuolella olevia ohjeita
+	6) Ohjelman saa käynnistettyä kaksoisklikkaamalla tiedostoa "matikkaeditorinkääntäjä.exe"
 
 #### Pikakuvakkeen luominen*:
 	1) klikkaa oikealla hiirinäppäimellä tiedostoa "matikkaeditori.pyw"  
@@ -115,6 +115,11 @@ ovat usein oletuksena päällä
 		  3) asettaa sen laatikoihin näkyville
 		  4) kopioi käännöksen leikepöydälle
 
+## sovelluksen poistaminen
+	1) koska sovelluksella ei ole asennusohjelmaa, olet itse sijoittanut kansion ja sen kaikki tiedostot haluamaasi paikkaan
+	2) mene kansioon, johon kaikki on tallennettu ja poista kaikki ohjelmistoon kuuluvat tiedostot ja kansiot
+	3) muista myös poistaa luomasi pikakuvake
+		(jos et muista minne olet tiedostot tallentanut, voit painaa pikakuvakkeesta oikealla hiirinäppäimellä ja valita “avaa tiedostosijainti”)
 
 
 
