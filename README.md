@@ -156,7 +156,7 @@ ohjelmiston käyttöehdot voit löytää mukana tulevasta tiedostosta "terms and
 
 ## Ohjeita ja muita tiedostoja  
 
-lisää ohjeita käyttöönottoon löytyy [täältä](https://docs.google.com/document/d/1xKYWsBhS1MESHVi0ALWNzCvWH8a3M2paWLCfXHwJFho/edit?usp=sharing)  
+lisää kuvallisia ohjeita käyttöönottoon löytyy [täältä](https://docs.google.com/document/d/1xKYWsBhS1MESHVi0ALWNzCvWH8a3M2paWLCfXHwJFho/edit?usp=sharing)  
 merkkimuutokset löytyvät [täältä](https://docs.google.com/spreadsheets/d/1bi-iejOZ7LSQXTja8hWFj7LcgKMt4z3Aa5pRelak9R8/edit?usp=sharing)  
 käyttöehdot läytyvät [täältä](https://docs.google.com/document/d/1m952YhMxpN6ihcMfVcO7xJ0TYGzwajvvKJLnzftqdz0/edit?usp=sharing)  
 ohjeita ohjelman käyttämiseen löytyy [täältä](https://docs.google.com/document/d/1DsLcrpI9WRrZpKFShpISrDzh8b6GYNe3oJJxGGmKpiA/edit?usp=sharing)  
