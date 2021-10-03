@@ -163,11 +163,11 @@ ovat usein oletuksena päällä
 
 
 
-1.) matikkaeditori.exe
-2.) README.md
-3.) terms and conditions.txt
-4.) data  
-5.)    |____ change.log  
+1.) matikkaeditori.exe  
+2.) README.md  
+3.) terms and conditions.txt  
+4.) data    
+5.)    |____ change.log    
 6.)    |____ color.dat  
 7.)    |____ settings.txt  
 
