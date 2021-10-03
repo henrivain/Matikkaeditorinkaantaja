@@ -1,0 +1,21 @@
+Matikkaeditorinkaantaja is referred as MEK.
+
+Software is free to use and doesn't need a licence.
+
+Use of source code without permission of the owner is forbidden.
+
+Commercial use of software or code is forbidden without permission of the owner.
+
+Misuse of the software and impersonation as software owner is prohibited.
+
+All questions about software and issue reports can be sent at: https://github.com/matikkaeditorinkaantaja/Matikkaeditorinkaantaja/issues
+or via email: matikkaeditorinkaantaja@gmail.com
+
+We reserve the right to change Terms and Conditions at any point with or without notice to user. Any such modification will be effective upon public posting.
+
+Your use of the software constitutes your acceptance of terms and conditions of MEK.
+
+All rights belong to Henri Vainio <matikkaeditorinkaantaja@gmail.com>
+
+
+
