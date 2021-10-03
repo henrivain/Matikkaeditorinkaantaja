@@ -1,6 +1,10 @@
 # Matikkaeditorinkaantaja
 MEK -matikkaeditorinkääntäjä-
+<<<<<<< HEAD
 versio v2.1 python  
+=======
+versio v2.0 exe  
+>>>>>>> b0d3cc9fa2b0bad8f9dd989be34fd0e302c17db3
 
 # Ohjeita matikkaeditorinkääntäjän käyttämiseen.
 täältä saa paljon vinkkejä ja tietoa kehittäjän mielenkulusta 
@@ -25,6 +29,7 @@ täältä saa paljon vinkkejä ja tietoa kehittäjän mielenkulusta
 - Kaikkien tiedostojen TÄYTYY sijaita niiden omissa paikoissa.  
 - Itse kansion sijainnilla ei ole väliä.  
 - FYSIIKKATILA2 EI OLE VIELÄ TOIMINNASSA  
+<<<<<<< HEAD
 - Kääntäjän saa käynnistettyä kaksoisklikkaamalla kansiota "matikkaeditorinkääntäjä.pyw" 
 	tai pikakuvakkeen kautta.  
 
@@ -63,6 +68,19 @@ Pythonin saa ladattua [Täältä](https://www.python.org/downloads/)
 
 
 
+=======
+- Kääntäjän saa käynnistettyä kaksoisklikkaamalla kansiota "matikkaeditorinkääntäjä.exe" 
+	tai pikakuvakkeen kautta.  
+
+## asentaminen
+
+	1) Lataa oikea MEK versio githubista
+	2) Pura tiedosto painamalla hiiren oikeaa näppäintä tiedoston päällä ja valitsemalla “Pura kaikki...” ja paina “Pura”
+	3) Kun tiedosto on purettu, avautuu purettu tiedosto näkyville
+	4) Vie avautunut kansio valitsemaasi kansioon
+	5) Kannattaa vielä luoda pikakuvake seuraamalla alapuolella olevia ohjeita
+	6) Ohjelman saa käynnistettyä kaksoisklikkaamalla tiedostoa "matikkaeditorinkääntäjä.exe"
+>>>>>>> b0d3cc9fa2b0bad8f9dd989be34fd0e302c17db3
 
 #### Pikakuvakkeen luominen*:
 	1) klikkaa oikealla hiirinäppäimellä tiedostoa "matikkaeditori.pyw"  
@@ -150,6 +168,10 @@ ovat usein oletuksena päällä
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b0d3cc9fa2b0bad8f9dd989be34fd0e302c17db3
 ## Mukana tulevat tiedostot
 - mukana pitäisi olla seuraavat tiedostot       
 
@@ -163,7 +185,11 @@ ovat usein oletuksena päällä
 8.) terms and conditions.txt  
 
 9.) data  
+<<<<<<< HEAD
 10.)     |____ change.log  
+=======
+10.)    |____ change.log  
+>>>>>>> b0d3cc9fa2b0bad8f9dd989be34fd0e302c17db3
 11.)    |____ color.dat  
 12.)    |____ settings.txt  
 
