@@ -1,0 +1,7 @@
+pikaohjeet asentamiseen
+1) Pura kansio painamalla yläreunasta "Pura kaikki" ja seuraa ohjeita
+2) Etsi purettu kansio (kansiossa EI .zip -päätettä)
+3) Tämän jälkeen käynnistä asennusohjelma ja seuraa sen ohjeita.
+4) Kun olet asentanut, nauti helpommasta elämästä!
+			- Henri Vainio [kehittäjä]
+

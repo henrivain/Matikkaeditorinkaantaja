@@ -1,20 +1,30 @@
-Terms and conditions
+Terms and conditions of Matikkaeditorinkaantaja.
 
-Matikkaeditorinkaantaja is referred as MEK.
+Owner this program is Henri Vainio and it is later referred as "owner".
 
-Software is free to use and doesn't need a licence.
-
-Use of source code without permission of the owner is forbidden.
+Software is free to use, but use source code without permission of the owner is forbidden.
 
 Commercial use of software or code is forbidden without permission of the owner.
 
 Misuse of the software and impersonation as software owner is prohibited.
 
-All questions about software and issue reports can be sent at: https://github.com/matikkaeditorinkaantaja/Matikkaeditorinkaantaja/issues
-or via email: matikkaeditorinkaantaja@gmail.com
+All questions about software and issue reports can be sent at: 
+https://github.com/matikkaeditorinkaantaja/Matikkaeditorinkaantaja/issues
+or via email: matikkaeditorinkaantaja(at)gmail.com
 
-We reserve the right to change Terms and Conditions at any point with or without notice to user. Any such modification will be effective upon public posting.
+Owner reserves the right to change Terms and Conditions at any point with or without notice to user. 
+Any such modification will be effective upon public posting.
 
-Your use of the software constitutes your acceptance of terms and conditions of MEK.
+Owner does not guarantee that software or any of it's parts or features are bug free or 
+work in any situation. Owner is not liable for any kind of direct harm or indirect harm caused 
+by using or not using the software, including loss of profit, hardware failures or any other possible harm.
 
-All rights belong to Henri Vainio <matikkaeditorinkaantaja@gmail.com>
+The ownership of the Software is and remains with the Developer of the Software (Henri Vainio). 
+The User does not possess an ownership to the Software and can not sell any part of software.
+
+Your use of the software constitutes your acceptance of terms and conditions of Matikkaeditorinkaantaja.
+
+All rights belong to Henri Vainio <matikkaeditorinkaantaja(at)gmail.com>
+
+These terms and conditions are in effect starting from 18.11.2021, until Owner informs otherwise and 
+can't be changed without permission of owner.
