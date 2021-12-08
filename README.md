@@ -1,6 +1,5 @@
 # Matikkaeditorinkaantaja
-MEK -matikkaeditorinkääntäjä-
-versio v2.1 python  
+versio v3.0 
 
 ## Mikä ihmeen matikkaeditorinkääntäjä
 - matikkaeditorinkääntäjä on tarkoitettu lukiolaisille, varsinkin heille jotka opiskelevat pitkää matematiikka tai muita matemaattisia aineita.  
