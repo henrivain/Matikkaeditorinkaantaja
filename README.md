@@ -1,7 +1,7 @@
 # Matikkaeditorinkaantaja
 versio v3.0 
 
-## Mikä ihmeen matikkaeditorinkääntäjä
+## Mikä ihmeen matikkaeditorinkääntäjä?
 - matikkaeditorinkääntäjä on tarkoitettu lukiolaisille, varsinkin heille jotka opiskelevat pitkää matematiikka tai muita matemaattisia aineita.  
 - MEK ottaa sisääntulona [matikkaeditorin](https://math-demo.abitti.fi/) (tai muiden kaavakirjoitusohjelmien kuten L'math) LaTeX -koodia ja kääntää sen cas- laskinohjelmistolle sopivaan muotoon  
 - esim. LaTeX input: "\frac{6\cdot 7}{14}" --> käännetty versio: "(6*7)/(14)"  
