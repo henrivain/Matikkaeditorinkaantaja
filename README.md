@@ -1,5 +1,6 @@
 # Matikkaeditorinkaantaja
-versio v3.0 
+MEK -matikkaeditorinkääntäjä-
+versio v3.1 C#
 
 ## Mikä ihmeen matikkaeditorinkääntäjä?
 - matikkaeditorinkääntäjä on tarkoitettu lukiolaisille, varsinkin heille jotka opiskelevat pitkää matematiikka tai muita matemaattisia aineita.  
@@ -84,15 +85,14 @@ ovat usein oletuksena päällä tai pois
 
 ## sovelluksen poistaminen
 	1) sovelluksen voit poistaa etsimällä sen tallennuspaikan
+		- oletus: "C:\Program Files (x86)\Matikkaeditorinkaantaja\unins000.exe"
 	2) käynnistä tiedosto "unins000.exe"
 	3) seuraa ohjeita
 ## päivitykset
 ## Ohjeita ja muita tiedostoja  
-
-lisää kuvallisia ohjeita käyttöönottoon löytyy [täältä](https://docs.google.com/document/d/1xKYWsBhS1MESHVi0ALWNzCvWH8a3M2paWLCfXHwJFho/edit?usp=sharing)  
+  
 merkkimuutokset löytyvät [täältä](https://docs.google.com/spreadsheets/d/1bi-iejOZ7LSQXTja8hWFj7LcgKMt4z3Aa5pRelak9R8/edit?usp=sharing)  
 käyttöehdot läytyvät [täältä](https://docs.google.com/document/d/1m952YhMxpN6ihcMfVcO7xJ0TYGzwajvvKJLnzftqdz0/edit?usp=sharing)  
-ohjeita ohjelman käyttämiseen löytyy [täältä](https://docs.google.com/document/d/1DsLcrpI9WRrZpKFShpISrDzh8b6GYNe3oJJxGGmKpiA/edit?usp=sharing)  
 
 
 

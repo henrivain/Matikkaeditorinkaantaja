@@ -1,3 +1,8 @@
+Jos sinulla on vanhoja versioita asennettuna ne voi 
+poistaa ajamalla sovelluksen "unins000.exe" ohjelmistokansiossa
+
+Oletuspolku: "C:\Program Files (x86)\Matikkaeditorinkaantaja\unins000.exe"
+
 pikaohjeet asentamiseen
 1) Pura kansio painamalla yläreunasta "Pura kaikki" ja seuraa ohjeita
 2) Etsi purettu kansio (kansiossa EI .zip -päätettä)
