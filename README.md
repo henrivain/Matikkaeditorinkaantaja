@@ -69,12 +69,13 @@ täältä saa paljon vinkkejä ja tietoa kehittäjän mielenkulusta
 toimintoja jotka helpottavat elämää  
 ovat usein oletuksena päällä tai pois
       
-#### älä poista turhia aaltosulkeita
-	- poistaa LaTeX kaavasta turhia aaltosulkeita, jotka ovat sinne päätyneet eri syistä
-	- oletuksena päällä, mutta tilaa voi muuttaa "asetukset" -valikosta
-	- kannattaa pitää aina pois päältä kuten oletuksena onkin
+#### auto solve
+	- lisää annetun kaavan ympärille "solve(kaava,muuttuja)", jos täyttyvät ehdot  
+		- kaavasta löytyy jokin merkeistä = >= <= < >
+		- kaavassa on muuttuja x, y tai z
+	- jos ehdot eivät täyty ei kaavaan lisätä mitään
 
-##### pikakääntötila
+##### pikakääntö
 	- toimii "pikakääntö" napista painamalla
 	- nopeuttaa laskemista (kaikki toimii yhdellä painalluksella)
 	- toiminta:
@@ -82,6 +83,15 @@ ovat usein oletuksena päällä tai pois
 		  2) kääntää sen valituissa laskentatiloissa
 		  3) asettaa sen laatikoihin näkyville
 		  4) kopioi käännöksen leikepöydälle
+		  
+#### lisäasetukset (vähempipätöiset)
+##### poista aaltosulut
+	- poistaa ylijääneet aaltosulut kaavoista
+	- kannattaa pitää aina päällä ongelmien välttämiseksi
+
+##### muuta erikoismerkit
+	- muuttaa vakiot i ja e muotoon @i ja @e (imaginääriyksikkö ja neperin luku)
+	- oletuksena pois päältä
 
 ## sovelluksen poistaminen
 	1) sovelluksen voit poistaa etsimällä sen tallennuspaikan
