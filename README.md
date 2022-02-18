@@ -93,6 +93,11 @@ ovat usein oletuksena päällä tai pois
 	- muuttaa vakiot i ja e muotoon @i ja @e (imaginääriyksikkö ja neperin luku)
 	- oletuksena pois päältä
 
+##### viimeistely
+	- poistaa tyhjät potenssit ja jakolaskut, jotka jäävät yli fysiikkatilan yksiköiden poistamisen jälkeen
+	- oletuksena päällä
+
+
 ## sovelluksen poistaminen
 	1) sovelluksen voit poistaa etsimällä sen tallennuspaikan
 		- oletus: "C:\Program Files (x86)\Matikkaeditorinkaantaja\unins000.exe"
