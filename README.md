@@ -1,6 +1,6 @@
 # Matikkaeditorinkaantaja
 MEK -matikkaeditorinkääntäjä-
-versio v3.1.2 C#
+versio v3.1.3 C#
 
 ## Mikä ihmeen matikkaeditorinkääntäjä?
 - matikkaeditorinkääntäjä on tarkoitettu lukiolaisille, varsinkin heille jotka opiskelevat pitkää matematiikka tai muita matemaattisia aineita.  
