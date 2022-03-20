@@ -106,11 +106,12 @@ ovat usein oletuksena päällä tai pois
 	3) seuraa ohjeita
 ## päivitykset
 ## Ohjeita ja muita tiedostoja  
-  
+
+uusimmat versiot tiedostoista löytyvät aina netistä
 merkkimuutokset löytyvät [täältä](https://docs.google.com/spreadsheets/d/1bi-iejOZ7LSQXTja8hWFj7LcgKMt4z3Aa5pRelak9R8/edit?usp=sharing)  
 käyttöehdot läytyvät [täältä](https://docs.google.com/document/d/1m952YhMxpN6ihcMfVcO7xJ0TYGzwajvvKJLnzftqdz0/edit?usp=sharing)  
-
-
+visuaalinen versio README tiedostosta [täältä](https://docs.google.com/document/d/1akGTKmWnCJrbmtH4gM1ucTExSKc3ipGZCM-l1wJatUQ/edit)  
+tämän tiedoston uusin versio [täältä](https://github.com/matikkaeditorinkaantaja/Matikkaeditorinkaantaja#readme)  
 
 Tiedosto päättyy!   kiitos jos luit!  :) 
 
