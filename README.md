@@ -22,9 +22,11 @@ versio v3.1.5 C#
 # Ohjeita matikkaeditorinkääntäjän käyttämiseen.
 täältä saa paljon vinkkejä ja tietoa kehittäjän mielenkulusta   
    
+[Julkaistuihin versioihin](https://github.com/matikkaeditorinkaantaja/Matikkaeditorinkaantaja/releases)
+   
 ## asennusprosessi
 	1) Lataa setup.zip tiedosto GitHubista
-		a) mene Matikkaeditorinkääntäjän etusivulle GitHubiin [tästä](https://github.com/matikkaeditorinkaantaja/Matikkaeditorinkaantaja)
+		a) mene Matikkaeditorinkääntäjän etusivulle GitHubiin (tai paina "Julkaistuihin versioihin" -linkkiä)
 		b) sivun oikeassa reunassa näkyy "Releases", paina sen alapuolella olevaan (Latest) Tagia 
 		c) Sivun alareunassa löytyy kohta "Assets" => paina "Source code (.zip)"
 		d) odota, että selain lataa kansion
