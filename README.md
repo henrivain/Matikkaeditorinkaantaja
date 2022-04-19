@@ -118,7 +118,7 @@ raportoi bugeista tai anna ehdotuksia [täällä](https://github.com/matikkaedit
 
 Tiedosto päättyy!   kiitos jos luit!  :) 
 
-###### Yhteystiedot:
+##### Yhteystiedot:
 
 Henri Vainio  
 Sähköposti: matikkaeditorinkaantaja(at)gmail.com  
