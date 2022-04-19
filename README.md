@@ -116,7 +116,11 @@ visuaalinen versio README tiedostosta [täältä](https://docs.google.com/docume
 tämän tiedoston uusin versio [täältä](https://github.com/matikkaeditorinkaantaja/Matikkaeditorinkaantaja#readme)  
 raportoi bugeista tai anna ehdotuksia [täällä](https://github.com/matikkaeditorinkaantaja/Matikkaeditorinkaantaja/issues) tai lähetä sähköpostia
 
+
+
 Tiedosto päättyy!   kiitos jos luit!  :) 
+
+
 
 #### Yhteystiedot:
 
