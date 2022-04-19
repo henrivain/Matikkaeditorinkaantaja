@@ -115,15 +115,15 @@ käyttöehdot läytyvät [täältä](https://docs.google.com/document/d/1m952YhM
 visuaalinen versio README tiedostosta [täältä](https://docs.google.com/document/d/1akGTKmWnCJrbmtH4gM1ucTExSKc3ipGZCM-l1wJatUQ/edit)  
 tämän tiedoston uusin versio [täältä](https://github.com/matikkaeditorinkaantaja/Matikkaeditorinkaantaja#readme)  
 raportoi bugeista tai anna ehdotuksia [täällä](https://github.com/matikkaeditorinkaantaja/Matikkaeditorinkaantaja/issues) tai lähetä sähköpostia
-
-
-
+  
+  
+  
 Tiedosto päättyy!   kiitos jos luit!  :) 
-
-
-
+  
+  
+  
 #### Yhteystiedot:
-
+  
 Henri Vainio  
 Sähköposti: matikkaeditorinkaantaja(at)gmail.com  
 Github: https://github.com/matikkaeditorinkaantaja
