@@ -114,8 +114,11 @@ merkkimuutokset löytyvät [täältä](https://docs.google.com/spreadsheets/d/1b
 käyttöehdot läytyvät [täältä](https://docs.google.com/document/d/1m952YhMxpN6ihcMfVcO7xJ0TYGzwajvvKJLnzftqdz0/edit?usp=sharing)  
 visuaalinen versio README tiedostosta [täältä](https://docs.google.com/document/d/1akGTKmWnCJrbmtH4gM1ucTExSKc3ipGZCM-l1wJatUQ/edit)  
 tämän tiedoston uusin versio [täältä](https://github.com/matikkaeditorinkaantaja/Matikkaeditorinkaantaja#readme)  
+raportoi bugeista tai anna ehdotuksia [täällä](https://github.com/matikkaeditorinkaantaja/Matikkaeditorinkaantaja/issues) tai lähetä sähköpostia
 
 Tiedosto päättyy!   kiitos jos luit!  :) 
+
+Yhteystiedot:
 
 Henri Vainio  
 Sähköposti: matikkaeditorinkaantaja(at)gmail.com  
