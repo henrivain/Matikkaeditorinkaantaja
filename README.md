@@ -77,7 +77,14 @@ ovat usein oletuksena päällä tai pois
 		- kaavasta löytyy jokin merkeistä = >= <= < >
 		- kaavassa on muuttuja x, y tai z
 	- jos ehdot eivät täyty ei kaavaan lisätä mitään
-
+	- myös pikanäppäin
+	
+#### auto derivaatta
+	- lisää kaavn ympärille "derivative(kaava, muuttuja)"
+		- jos vähintään yksi muuttuja kaavassa
+		- kaava alkaa isolla D -kirjaimella
+	- myös pikanäppäin
+		
 ##### pikakääntö
 	- toimii "pikakääntö" napista painamalla
 	- nopeuttaa laskemista (kaikki toimii yhdellä painalluksella)
@@ -86,7 +93,16 @@ ovat usein oletuksena päällä tai pois
 		  2) kääntää sen valituissa laskentatiloissa
 		  3) asettaa sen laatikoihin näkyville
 		  4) kopioi käännöksen leikepöydälle
-		  
+	
+#### pikanäppäimet  
+- pikanäppäimet helpottavat ja nopeuttavat ohjelman käyttämistä  
+- tällä hetkellä tuettuina ovat:  
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd> > pikakääntö  
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd> > pikakääntö + derivaatta  
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> > pikakääntö + autosolve  
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> > pikakääntö + oletusasetukset  
+<kbd>Ctrl</kbd> + <kbd>Enter</kbd> + painettuna syötelaatikossa > käännös  
+
 #### lisäasetukset (vähempipätöiset)
 ##### poista aaltosulut
 	- poistaa ylijääneet aaltosulut kaavoista
@@ -100,6 +116,10 @@ ovat usein oletuksena päällä tai pois
 	- poistaa tyhjät potenssit ja jakolaskut, jotka jäävät yli fysiikkatilan yksiköiden poistamisen jälkeen
 	- oletuksena päällä
 
+## asetusten tallentaminen uusia versioita varten
+- voit tallentaa sovelluksen asetukset mek.config.json tiedostoksi valitsemalla 
+- asetukset > lisäasetukset > vie mek datasi > vie
+- sovellus tallentaa tällöin haluamasi asetukset local appData -kansioon, josta uusi versio voi lukea ne helposti 
 
 ## sovelluksen poistaminen
 	1) sovelluksen voit poistaa etsimällä sen tallennuspaikan
