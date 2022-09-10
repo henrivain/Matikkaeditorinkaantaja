@@ -1,6 +1,6 @@
 # Matikkaeditorinkaantaja
 MEK -matikkaeditorinkääntäjä-
-versio v3.1.6 C#
+versio v3.1.7 C#
 
 
 ## Mikä ihmeen matikkaeditorinkääntäjä?
