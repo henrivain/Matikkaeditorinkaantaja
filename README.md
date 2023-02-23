@@ -1,6 +1,6 @@
 # Matikkaeditorinkaantaja
 MEK -matikkaeditorinkääntäjä-
-versio v3.1.9 C#
+versio v3.2.0
 
 
 ## Mikä ihmeen matikkaeditorinkääntäjä?
@@ -59,11 +59,18 @@ täältä saa paljon vinkkejä ja tietoa kehittäjän mielenkulusta
 - merkkikäännökset voi tarkistaa editorin mukana tulevasta Excel -tiedostosta
 
 ##### Matematiikkatila
-	- kääntää kaiken matikan näkökulmasta
-	- ei tunnista eikä poista yksiköitä 
+- kääntää kaiken matikan näkökulmasta
+- ei tunnista eikä poista yksiköitä 
         
 ##### Fysiikkatila 1
-	- tunnistaa useita yksiköitä ja poistaa ne 
+- tunnistaa useita yksiköitä ja poistaa ne 
+
+##### Fysiikkatila 2 	UUTTA!
+- tunnistaa yksiköt latex-kaavasta ja muuttaa ne sopivaksi Ti-Nspire laskentaohjelmistolle
+```
+29\cdot 10^{6}\frac{J}{kg}	=> 	29*10^(6)(_J)/(_kg)
+```
+Nopeuta laskemistasi fysiikkatila 2 avulla!
 
 ##### geometriatila
 	- ottaa käyttöön merkit α β γ δ
@@ -101,7 +108,10 @@ ovat usein oletuksena päällä tai pois
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd> > pikakääntö + derivaatta  
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> > pikakääntö + autosolve  
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> > pikakääntö + oletusasetukset  
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> > pikakääntö + fysiikkatila 1
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd> > pikakääntö + fysiikkatila 2
 <kbd>Ctrl</kbd> + <kbd>Enter</kbd> + painettuna syötelaatikossa > käännös  
+
 
 #### lisäasetukset (vähempipätöiset)
 ##### poista aaltosulut
