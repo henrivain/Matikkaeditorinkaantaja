@@ -48,7 +48,8 @@ täältä saa paljon vinkkejä ja tietoa kehittäjän mielenkulusta
 	4) Kun asennusohjelma on valmis, voit käynnistää sovelluksen pikakuvakkeesta  
 	
 ## asetusten muuttaminen 
-- sovelluksen asetuksia voi muuttaa painamalla normaalinäkymässä 
+- sovelluksen asetuksia voi muuttaa painamalla rattaan kuvaa normaalinäkymässä
+- lisää asetuksia löyty asetusvalikon "lisäasetukset" -kohdasta 
 
 ## Tilat ja niiden toiminta
 
