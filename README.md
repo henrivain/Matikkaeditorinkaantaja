@@ -1,6 +1,6 @@
 # Matikkaeditorinkaantaja
 MEK -matikkaeditorinkääntäjä-
-versio v3.2.0
+versio v3.2.4
 
 
 ## Mikä ihmeen matikkaeditorinkääntäjä?
