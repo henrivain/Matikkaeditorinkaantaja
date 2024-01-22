@@ -137,13 +137,6 @@ ovat usein oletuksena päällä tai pois
 		- oletus: "C:\Program Files (x86)\Matikkaeditorinkaantaja\unins000.exe"
 	2) käynnistä tiedosto "unins000.exe"
 	3) seuraa ohjeita
-  
-  
-## päivitykset
-	- ohjelmisto ei toistaiseksi päivitä itse itseään tai ilmoita uusista saatavilla olevista päivityksistä
-	- uudet versiot tulee ladata Githubista ja asentaa asennusohjelmalla
-	- päivitykset kannattaa tarkistaa 1-2 kk välein
-	- uudet päivitykset tuovat parannuksia algoritmeihin, käyttöliittymään, sekä sovelluksen toimivuuteen 
 
 ## Ohjeita ja muita tiedostoja  
 
