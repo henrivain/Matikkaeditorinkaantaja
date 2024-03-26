@@ -1,6 +1,6 @@
 # Matikkaeditorinkaantaja
 MEK -matikkaeditorinkääntäjä-
-versio v3.2.4
+versio v3.2.5
 
 
 ## Mikä ihmeen matikkaeditorinkääntäjä?
@@ -157,4 +157,4 @@ Tiedosto päättyy!   kiitos jos luit!  :)
   
 Henri Vainio  
 Sähköposti: matikkaeditorinkaantaja(at)gmail.com  
-Github: https://github.com/matikkaeditorinkaantaja
+Github: https://github.com/henrivain
