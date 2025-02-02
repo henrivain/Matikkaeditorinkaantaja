@@ -1,6 +1,6 @@
 # Matikkaeditorinkaantaja
 MEK -matikkaeditorinkääntäjä-
-versio v3.2.5
+versio v3.2.7
 
 
 ## Mikä ihmeen matikkaeditorinkääntäjä?
@@ -22,23 +22,16 @@ versio v3.2.5
 # Ohjeita matikkaeditorinkääntäjän käyttämiseen.
 täältä saa paljon vinkkejä ja tietoa kehittäjän mielenkulusta   
    
-[Julkaistuihin versioihin](https://github.com/matikkaeditorinkaantaja/Matikkaeditorinkaantaja/releases)
+[Julkaistuihin versioihin](https://github.com/henrivain/Matikkaeditorinkaantaja/releases)
    
 ## asennusprosessi
-	1) Lataa setup.zip tiedosto GitHubista
-		a) mene Matikkaeditorinkääntäjän etusivulle GitHubiin (tai paina "Julkaistuihin versioihin" -linkkiä)
-		b) sivun oikeassa reunassa näkyy "Releases", paina sen alapuolella olevaan (Latest) Tagia 
-		c) Sivun alareunassa löytyy kohta "Assets" => paina "Source code (.zip)"
-		d) odota, että selain lataa kansion
-	2) Pura ladattu .zip kansio
-		a) etsi ladattu kansio tietokoneelta 
-			- nimi on Matikkaeditorinkaantaja-versio.zip
-			- tallennuspaikka on usein "Ladatut tiedostot" tai "downloads"
-		b) tuplaklikkaa kansiota ja valitse yläkulmasta "Pura kaikki"
-		c) purettu tiedosto aukeaa ruudulle
-		d) tässä vaiheessa voit halutessasi poistaa .zip kansion
-	3) Asenna sovellus
-		a) Tuplaklikkaa MatikkaeditorinkääntäjäSetup.exe tiedostoa
+	1) Lataa `setup.exe` tiedosto GitHubista
+		a) Mene [julkaisut -välilehdelle](https://github.com/henrivain/Matikkaeditorinkaantaja/releases)
+  		b) valitse uusin version
+		c) Sivun alareunassa löytyy kohta "Assets" => paina MatikkaeditorinkaantajaX.X.XSEtup.exe"
+		d) odota, että tiedosto latautuu
+	2) Asenna sovellus
+		a) Tuplaklikkaa MatikkaeditorinkääntäjäX.X.XSetup.exe tiedostoa
 		b) Windows todennäköisesti avaa Windows suojasi laitettasi
 			- näkymä tulee ensimmäisellä käynnistyskerralla, jos koodilla ei ole digitaalista signeerausta
 			- paina "lisätietoja"
