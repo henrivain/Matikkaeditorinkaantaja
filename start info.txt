@@ -1,0 +1,10 @@
+After installation Windows might show you "windows protected your pc" popup
+This is because I don't have code signature yet (they are very expensive)
+To bypass this screen
+	1) press "More Info"
+	2) press "run anyway"
+
+If you have any previous installations of Matikkaeditorinkaantaja you can 
+remove them by running "unins000.exe" in application folder
+
+Default file path is "C:\Program Files (x86)\Matikkaeditorinkaantaja\unins000.exe"
